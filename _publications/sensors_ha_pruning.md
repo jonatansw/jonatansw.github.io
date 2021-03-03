@@ -12,4 +12,5 @@ In this paper we present an extension to the hybrid A* (HA*) path planner. This 
 
 [Download paper here](http://jonatansw.github.io/files/papers/sensors-21-01152.pdf)
 
+![alt text](http://jonatansw.github.io/files/papers/images/ha.png "Algorithm reusing prior explored search tree during replanning")
 
