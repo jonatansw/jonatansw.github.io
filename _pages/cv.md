@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Please find my CV [here](http://jonatansw.github.io/files/Resume_JSW.pdf)
+Please find my CV [here](http://jonatansw.github.io/files/Resume_JSW.pdf).
 
 <!---
 Education
