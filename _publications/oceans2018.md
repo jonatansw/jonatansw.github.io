@@ -3,7 +3,7 @@ title: "Kinodynamic Path Planning for Following and Tracking Vehicles"
 collection: publications
 permalink: oceans2018
 excerpt: ''
-date: 2018
+date: 2018-01-01
 venue: 'OCEANS 2018 MTS/IEEE Charleston'
 paperurl: 'https://ieeexplore.ieee.org/document/8604846'
 citation: 'Willners, J. S., Petillot, Y. R., Patron, P., & Gonzalez-Adell, D. (2018). Kinodynamic Path Planning for Following and Tracking Vehicles. OCEANS 2018 MTS/IEEE Charleston, OCEAN 2018. https://doi.org/10.1109/OCEANS.2018.8604846'

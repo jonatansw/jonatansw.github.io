@@ -3,7 +3,7 @@ title: "Moving Baseline Localization for Multi-Vehicle Maritime Operations"
 collection: publications
 permalink: oceans2017
 excerpt: ''
-date: 2017
+date: 2017-01-01
 venue: 'OCEANS 2017 MTS/IEEE Aberdeen'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8084652'
 citation: 'Willners, J. S., Patron, P., & Pettilot, Y. R. (2017). Moving baseline localization for multi-vehicle maritime operations. OCEANS 2017 - Aberdeen, 2017-Octob, 1–6. https://doi.org/10.1109/OCEANSE.2017.8084652'

@@ -1,9 +1,9 @@
 ---
 title: "Kinodynamic Path Planning for Following and Tracking Vehicles"
 collection: publications
-permalink: oceans2018
+permalink: oceans2019
 excerpt: ''
-date: 2019
+date: 2019-01-01
 venue: 'OCEANS 2019 MTS/IEEE Marseille'
 paperurl: 'https://ieeexplore.ieee.org/document/8867537'
 citation: 'J. S. Willners, L. Toohey and Y. Petillot, "Improving Acoustic Range-Only Localisation by Selection of Transmission Time," OCEANS 2019 - Marseille, Marseille, France, 2019, pp. 1-6, doi: 10.1109/OCEANSE.2019.8867537.'
