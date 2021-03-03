@@ -1,7 +1,7 @@
 ---
 title: "Online 3-Dimensional Path Planning with Kinematic Constraints in Unknown Environments Using Hybrid A* with Tree Pruning"
 collection: publications
-permalink: https://www.mdpi.com/1424-8220/21/4/1152
+permalink: sensors2021
 excerpt: ''
 date: 2021-02-06
 venue: 'Sensors Special Issue on Intelligence and Autonomy for Underwater Robotic Vehicles'
